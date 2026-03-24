@@ -1,1 +1,1 @@
-# JDBC-project
+# Hospital_Management_System
